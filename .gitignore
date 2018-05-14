@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scrapy exported results
+/export.csv
+
+# Scrapy stuff:
+.scrapy
